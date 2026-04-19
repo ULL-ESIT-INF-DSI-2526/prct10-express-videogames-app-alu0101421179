@@ -1,0 +1,12 @@
+{
+  "id": 2,
+  "name": "FIFA26",
+  "description": "Mismo juego de todos los años",
+  "platform": "Playstation 5",
+  "genre": "Deporte",
+  "developer": "EA",
+  "year": 2025,
+  "multiplayer": true,
+  "hours": 120,
+  "value": 60
+}
