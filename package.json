@@ -7,7 +7,7 @@
     "start": "tsc-watch --onSuccess \"node dist/index.js\"",
     "doc": "typedoc",
     "test": "vitest run",
-    "coverage": "vitest run --coverage --coverage.include src/*"
+    "coverage": "vitest run --coverage"
   },
   "repository": {
     "type": "git",
@@ -25,6 +25,7 @@
     "@eslint/js": "^10.0.1",
     "@types/express": "^5.0.6",
     "@vitest/coverage-v8": "^4.1.4",
+    "axios": "^1.15.1",
     "eslint": "^10.2.1",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-tsdoc": "^0.5.2",

@@ -1,7 +1,7 @@
 {
   // Visit https://aka.ms/tsconfig to read more about this file
   "exclude": [
-	"./tests",
+	"./test",
 	"./node_modules",
 	"./dist"
   ],
